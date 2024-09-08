@@ -1,6 +1,6 @@
 # Fire_Smoke_Detection_ML_MODEL
 
-### FireSight Guardian App - Vision-Based Smoke Detection System
+### FireSight Guardian App - Vision-Based Smoke Detection & Alert System
 
 An innovative smoke detection system prioritizing fast response times, affordability, and scalability. The system utilizes low-cost ESP32-CAM modules with built-in Wi-Fi and microcontrollers to capture live video streams, with basic image preprocessing handled on-device. These modules are strategically placed for comprehensive area coverage. It is not necessary to use an ESP32-CAM; any IP camera connected to the WLAN will suffice.
 
