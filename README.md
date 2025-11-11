@@ -8,8 +8,16 @@ An innovative smoke detection system prioritizing fast response times, affordabi
 
 Smoke detection is performed using a lightweight YOLOv5s6 model processed on a central computer (with Jetson Nano as an option for real-world scenarios). The system delivers swift alerts via local alarms or smartphone notifications. Optional features for further development include GSM modules for uninterrupted transmission in weak Wi-Fi areas and solar power for extended outdoor deployments. Additional enhancements include flame location tracking, redundant detection frame removal, and intelligent delay mechanisms for improved accuracy and efficiency.
 
-<img src="https://github.com/rnshalinda/FireSight_Guardian_ML_FireDetection_System/blob/main/App%20snaps/1.PNG"
-     width="700px"
-     height="750px"
-     alt="App Screenshot">
+### ESP32-Cam rig
+<img src="https://github.com/user-attachments/assets/b64d83fe-bb74-40be-b73a-5abf2ab6fee3" width="327" height="408"/>
+
+### App GUI
+<img src="https://github.com/rnshalinda/FireSight_Guardian_ML_FireDetection_System/blob/main/App%20snaps/1.PNG" width="700px" height="750px">
+
+### Push Notification alert on mobile
+<p>
+     <img src="https://github.com/user-attachments/assets/287e6cbc-7993-477c-9f48-6191de4b4e50"  width="330"/>
+     <img src="https://github.com/user-attachments/assets/e42da3c6-62d9-484a-9f3f-f660f341cf21"  width="350"/>
+</p>
+
 
